@@ -39,7 +39,7 @@ Param(
 # Change the $RoutingKey field to the value set by the Event API v2 integration
 # settings for the PagerDuty service you wish to route alerts to.
 # DO NOT CHANGE THE URL.
-$RoutingKey = "3e94479ab3e14704c0a27ce59a8cbfb5"
+$RoutingKey = "XXXXXX"
 $Url = "https://events.pagerduty.com/v2/enqueue"
 # ---------------------------------
 
